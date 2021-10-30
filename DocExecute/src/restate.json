@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Ram Villas",
+    "picture": "images/villas1.jpg",
+    "plotNo": 12321,
+    "address": "555, Ramanujam Road, Nungambakkam",
+    "location": "Chennai, TN"
+  },
+  {
+    "id": 1,
+    "name": "Bandra Villas",
+    "picture": "images/villas2.jpg",
+    "plotNo": 32223,
+    "breed": "9, Pali Hill, Bandra, Mumbai",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Ravi Mahal",
+    "picture": "images/villas3.jpg",
+    "plotNo": 754433,
+    "address": "102, Rajeshwaro Road, Koramangala, Bangalore",
+    "location": "Bangalore, KA"
+  },
+  {
+    "id": 3,
+    "name": "Ram Mahal",
+    "picture": "images/villas4.jpg",
+    "plotNo": 242223,
+    "address": "12, Ram Vilas Road,Jubilee Hills, Hydrabad",
+    "location": "Hydrabad, AP"
+  },
+  {
+    "id": 4,
+    "name": "Devi Villas",
+    "picture": "images/villas1.jpg",
+    "plotNo": 764442,
+    "address": "121, R.A Puram Road, Chennai",
+    "location": "Chennai, TN"
+  },
+  {
+    "id": 5,
+    "name": "Prabhu Palace",
+    "picture": "images/villas2.jpg",
+    "plotNo": 3764334,
+    "address": "454, Hiranandani, Powai, Mumbai",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Lalitha Mahal",
+    "picture": "images/villas3.jpg",
+    "plotNo": 334323,
+    "address": "25, Altamount Road, Mumbai",
+    "location": "Mumbai, MH"
+  },
+  {
+    "id": 7,
+    "name": "Rup Nizham Mahal",
+    "picture": "images/villas4.jpg",
+    "plotNo": 39887,
+    "address": "12, Nizham Road, Hydrabad",
+    "location": "Hydrabad, AP"
+  },
+  {
+    "id": 8,
+    "name": "Bengal Villas",
+    "picture": "images/villas1.jpg",
+    "age": 2321111,
+    "address": "11, Hariharan Road, kolkatta",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Banus House",
+    "picture": "images/villas2.jpg",
+    "plotNo": 534333,
+    "address": "212, Andheri  west Road, Mumbai",
+    "location": "Mumbai, MH"
+  },
+  {
+    "id": 10,
+    "name": "Mahalakshmi Mahal",
+    "picture": "images/villas3.jpg",
+    "plotNo": 6467882,
+    "address": "15, Adyar, Chennai",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Vishu Palace",
+    "picture": "images/villas4.jpg",
+    "plotNo": 343434,
+    "address": "23, Rajeev Gandhi Road, New Delhi",
+    "location": "NewDelhi, ND"
+  },
+  {
+    "id": 12,
+    "name": "Steve House",
+    "picture": "images/villas1.jpg",
+    "plotNo": 112233,
+    "address": "1232, 5th Block, Marathahalli Road",
+    "location": "Bangalore, KA"
+  },
+  {
+    "id": 13,
+    "name": "Jaya Villas",
+    "picture": "images/villas2.jpg",
+    "plotNo": 4643234,
+    "address": "5, Ram Raod, South Bangalore Road",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Raja villas",
+    "picture": "images/villas3.jpg",
+    "plotNo": 20987680,
+    "address": "1,Annanagar West, Annanagar, Chennai",
+    "location": "Chennai, TN"
+  },
+  {
+    "id": 15,
+    "name": "Mallai Veedu",
+    "picture": "images/villas4.jpg",
+    "plotNo": 209872,
+    "address": "12,SouthMadras Road, Kotturpuram",
+    "location": "Chennai, TN"
+  }
+]
